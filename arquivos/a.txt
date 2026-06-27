@@ -1,0 +1,4 @@
+Primeiro arquivo de texto.
+Segundo arquivo de texto.
+Terceira linha de texto adicionada
+Quarta linha de texto
